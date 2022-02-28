@@ -147,15 +147,15 @@ ul.features-list li:before {
   border-radius: 3em;
 }
 
-.testimonials-section li .jerin_1 {
-  width: 6em;
-  height: 6.5em;
+.testimonials-section li .khalid_farhan {
+  width: 7em 100px;
+  height: 7.5em;
   border: 7px solid #006BD6;
   border-radius: 80%;
   margin-top: -4.5em;
 }
 
-.testimonials-section li .jerin_2 {
+.testimonials-section li .enayet_chowdhury {
   width: 6.5em;
   height: 6.5em;
   border: 7px solid #006BD6;
@@ -163,8 +163,8 @@ ul.features-list li:before {
   margin-top: -4.5em;
 }
 
-.testimonials-section li .jerin_3 {
-  width: 6.5em 50px;
+.testimonials-section li .sadman_sadik {
+  width: 6.5em 100px;
   height: 6.5em;
   border: 7px solid #006BD6;
   border-radius: 80%;
@@ -219,14 +219,12 @@ nav.menu-btn {
 nav {
   position: fixed;
   z-index: 999;
-  width: 50%;
+  width: 66%;
   right: 0;
   top: 0;
-  background: #444;
-  height: 70vh;
-  padding: .5em;
-  font-size: larger;
-  
+  background: #20272E;
+  height: 100vh;
+  padding: 1em;
   border-top-left-radius: 1.5em;
   border-bottom-left-radius: 1.7em;
   border-top-right-radius: 1.5em;
@@ -408,7 +406,7 @@ nav ul.premium-nav li a:hover {
     width: 350px;
     bottom: 10em;
     margin-bottom: -11.9em;
-    margin-right: 0em;
+    margin-right: 0.1em;
   }
   .testimonials-section ul {
     display: -webkit-box;
